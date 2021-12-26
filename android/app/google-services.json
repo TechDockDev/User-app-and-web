@@ -1,0 +1,210 @@
+{
+  "project_info": {
+    "project_number": "715227074931",
+    "firebase_url": "https://bahula-2b141.firebaseio.com",
+    "project_id": "bahula-2b141",
+    "storage_bucket": "bahula-2b141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715227074931:android:b2151c40856e8117f43506",
+        "android_client_info": {
+          "package_name": "com.tapzuandroid.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715227074931-0603iaf2tvcrkhfq64j2a6eanep4b1b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.customer",
+            "certificate_hash": "ca9721a4d1fd5367dc76a4bc99f52b868d727829"
+          }
+        },
+        {
+          "client_id": "715227074931-f7vio0bisg3v8u36gb5daf5ksug8lr0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.customer",
+            "certificate_hash": "9dce18a8f589d8a3f77dcc4ae186b9c449c6b44e"
+          }
+        },
+        {
+          "client_id": "715227074931-jd2ugrjh4clgr31sk1b83lgd01dphg43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.customer",
+            "certificate_hash": "b4f12faee81c2ec86904bef7af3860f69cd8b352"
+          }
+        },
+        {
+          "client_id": "715227074931-6ais5g485399rv886ft4ecbig4jbqsb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsB71_tlTN99SIxumJ4N9ftYB08he-dkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715227074931-6ais5g485399rv886ft4ecbig4jbqsb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715227074931:android:96c7ad6ccd0dde25f43506",
+        "android_client_info": {
+          "package_name": "com.tapzuandroid.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715227074931-5qqvk299qg8pup4hof6i1frlo37f48np.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.driver",
+            "certificate_hash": "1441532708027d20e096ac8edf401ada443dde0e"
+          }
+        },
+        {
+          "client_id": "715227074931-6t1m5636d4mt9tmmtfh6rb0fim5irj6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.driver",
+            "certificate_hash": "b4f12faee81c2ec86904bef7af3860f69cd8b352"
+          }
+        },
+        {
+          "client_id": "715227074931-7bmtttappmjjiv8ruguj31iijop8m0j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.driver",
+            "certificate_hash": "ca9721a4d1fd5367dc76a4bc99f52b868d727829"
+          }
+        },
+        {
+          "client_id": "715227074931-ab1mgppnl9jqbj2go94idqeaigg1vfgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.driver",
+            "certificate_hash": "9dce18a8f589d8a3f77dcc4ae186b9c449c6b44e"
+          }
+        },
+        {
+          "client_id": "715227074931-ag8asnslfhbjlfjo03fif2tg25ggrb3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.driver",
+            "certificate_hash": "db96492f4dc4543bdb71a8230a6d4a1ba635580a"
+          }
+        },
+        {
+          "client_id": "715227074931-c1upe3qqmo53uqjj3hm9kehjn7i1obcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.driver",
+            "certificate_hash": "44498b1759de016750f9c9b00ec566165f9c008a"
+          }
+        },
+        {
+          "client_id": "715227074931-6ais5g485399rv886ft4ecbig4jbqsb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsB71_tlTN99SIxumJ4N9ftYB08he-dkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715227074931-6ais5g485399rv886ft4ecbig4jbqsb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715227074931:android:68a91921710165d2f43506",
+        "android_client_info": {
+          "package_name": "com.tapzuandroid.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715227074931-cpkofg838l9hipc8e5no8oin0jj7nsfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.merchant",
+            "certificate_hash": "9dce18a8f589d8a3f77dcc4ae186b9c449c6b44e"
+          }
+        },
+        {
+          "client_id": "715227074931-e6l3aigectuljol85t10irdl264ve2fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.merchant",
+            "certificate_hash": "db96492f4dc4543bdb71a8230a6d4a1ba635580a"
+          }
+        },
+        {
+          "client_id": "715227074931-jgoitbf07im5kea396595f7u6fv7i9qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.merchant",
+            "certificate_hash": "6b6f769135d1e70e05d598dd24ce0f2412952744"
+          }
+        },
+        {
+          "client_id": "715227074931-nnaequnpet3501esd8d3hm385vm0h5vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.merchant",
+            "certificate_hash": "b4f12faee81c2ec86904bef7af3860f69cd8b352"
+          }
+        },
+        {
+          "client_id": "715227074931-ovf1e59jq217ji4hf96gsi64cell9bp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapzuandroid.merchant",
+            "certificate_hash": "ca9721a4d1fd5367dc76a4bc99f52b868d727829"
+          }
+        },
+        {
+          "client_id": "715227074931-6ais5g485399rv886ft4ecbig4jbqsb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsB71_tlTN99SIxumJ4N9ftYB08he-dkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715227074931-6ais5g485399rv886ft4ecbig4jbqsb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
